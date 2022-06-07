@@ -1,0 +1,1 @@
+# altkom-animal-hotel-service-registry
